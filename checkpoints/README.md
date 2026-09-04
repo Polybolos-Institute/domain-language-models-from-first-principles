@@ -1,6 +1,6 @@
 # Checkpoints
 
-Bundled: `polybolos_nano.pt` (Path A teaching weights).
+Bundled: `polybolos_nano.pt` (Aleta AI Path A teaching weights).
 
 ```bash
 python generate.py --ckpt checkpoints/polybolos_nano.pt --prompt "Path A builds"

@@ -1,7 +1,8 @@
-# Evaluation notes (Path A nano)
+# Evaluation notes (Aleta AI / Path A nano)
 
 | Field | Value |
 |-------|--------|
+| Product | Aleta AI |
 | Config | `nano` |
 | Parameters | 858,880 |
 | Tokenizer | UTF-8 bytes (vocab 256) |
@@ -12,4 +13,4 @@
 | Wall time | ~342 s |
 | Final val loss | ~0.067 |
 
-This is a teaching checkpoint. It demonstrates local train/infer ownership. It is not a frontier commercial model and is not Command HOTL.
+Teaching checkpoint for Aleta AI v0.1. Demonstrates local train/infer ownership. Not a frontier commercial model. Not Command HOTL.

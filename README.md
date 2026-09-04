@@ -1,11 +1,12 @@
-﻿# Domain Language Models From First Principles
+﻿# Aleta AI
 
+**Product:** Aleta AI (Path A teaching domain language model)  
 **Document ID:** PI-WP-2026-040410  
 **Revision:** A (September 2026)  
 **Classification:** Unclassified // Approved for Public Release  
 **Author:** Mark Brown, Polybolos Institute
 
-Runnable Path A teaching package: train a GPT-style domain language model from scratch, or download a pretrained nano checkpoint and generate offline.
+Aleta AI is the public downloadable Path A package from Polybolos Institute: train a GPT-style domain language model from scratch, or download the pretrained nano checkpoint and generate offline.
 
 ## Quick start (download and run)
 
@@ -47,7 +48,7 @@ Hardware: CPU works for nano. A workstation GPU shortens wall time. Record steps
 - PDF: [Polybolos_Institute_WP-2026-040410_Building_Artificial_Intelligence.pdf](Polybolos_Institute_WP-2026-040410_Building_Artificial_Intelligence.pdf)
 - Site: https://polybolos.org/PI-WP-2026-040410.html
 
-Path A = from-scratch ownership. Path B (7B LoRA) is described in the paper and is not this v1 package.
+Path A = from-scratch ownership (this package). Path B (7B LoRA) is described in the paper and is not Aleta AI v1.
 
 ## Bounds
 
