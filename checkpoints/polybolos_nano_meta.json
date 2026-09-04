@@ -1,0 +1,19 @@
+{
+  "config_name": "nano",
+  "config": {
+    "vocab_size": 256,
+    "block_size": 256,
+    "n_layer": 4,
+    "n_head": 4,
+    "n_embd": 128,
+    "dropout": 0.0
+  },
+  "params": 858880,
+  "steps": 2000,
+  "device": "cpu",
+  "elapsed_sec": 341.8,
+  "final_val_loss": 0.06739749126136303,
+  "corpus": "data/corpus.txt",
+  "tokenizer": "utf-8-bytes",
+  "paper": "PI-WP-2026-040410"
+}
